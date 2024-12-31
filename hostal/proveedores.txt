@@ -1,0 +1,5 @@
+1,Proveedor A,12345678901
+2,Proveedor B,23456789012
+3,Proveedor C,34567890123
+4,Proveedor D,45678901234
+5,Proveedor E,56789012345
